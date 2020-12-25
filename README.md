@@ -10,7 +10,7 @@ Nous avions des contraintes imposées :
 •	Les images devaient être optimisées
 •	La page devait être consultable et utilisable en version mobile et desktop et codée en mobile first
 
-Ce site a été réalisé en trinome sur une durée de deux semaines.
+Ce projet a été réalisé en trinome sur une durée de deux semaines.
 
 Vous retrouverez le sujet ici : https://www.cloudschool.org/iut-info
 
